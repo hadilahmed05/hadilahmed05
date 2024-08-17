@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# 💫 About Me:
+
 I'm Hadil Ahmed, a passionate final-year engineering student blending cloud innovations with DevOps agility to create smarter, more efficient systems
 
 
